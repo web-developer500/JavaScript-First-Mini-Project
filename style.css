@@ -130,8 +130,8 @@ button {
 
 @media (width <= 480px) {
     .calculator {
-        width: 22rem;
-        height: 26rem;
+        width: 21rem;
+        height: 28rem;
         margin-left: 0;
         margin-right: 0;
         overflow: hidden;
