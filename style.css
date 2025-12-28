@@ -75,8 +75,8 @@ button {
 
 @media (width <= 768px) {
     .calculator {
-        width: 25rem;
-        height: 26rem;
+        width: 22rem;
+        height: 32rem;
         margin-left: 0;
         margin-right: 0;
         overflow: hidden;
@@ -88,14 +88,14 @@ button {
     }
 
     input {
-        width: 20rem;
+        width: 18rem;
         height: 5rem;
     }
 
     button {
-        width: 2.5rem;
-        height: 2.5rem;
-        margin-right: 1.7rem;
+        width: 2.7rem;
+        height: 2.7rem;
+        margin-right: 0.975rem;
         font-size: 1rem;
     }
 }
@@ -103,8 +103,8 @@ button {
 
 @media (width <= 576px) {
     .calculator {
-        width: 25rem;
-        height: 26rem;
+        width: 22rem;
+        height: 30rem;
         margin-left: 0;
         margin-right: 0;
         overflow: hidden;
@@ -116,22 +116,22 @@ button {
     }
 
     input {
-        width: 20rem;
+        width: 17.5rem;
         height: 5rem;
     }
 
     button {
-        width: 2.5rem;
-        height: 2.5rem;
-        margin-right: 1.7rem;
+        width: 2.7rem;
+        height: 2.7rem;
+        margin-right: 0.975rem;
         font-size: 1rem;
     }
 }
 
 @media (width <= 480px) {
     .calculator {
-        width: 21rem;
-        height: 28rem;
+        width: 20rem;
+        height: 30rem;
         margin-left: 0;
         margin-right: 0;
         overflow: hidden;
@@ -142,13 +142,13 @@ button {
     }
 
     input {
-        width: 18rem;
-        height: 3.5rem;
+        width: 17.5rem;
+        height: 5rem;
     }
 
     button {
-        width: 2.8rem;
-        height: 2.8rem;
+        width: 2.5rem;
+        height: 2.5rem;
         margin-right: 0.975rem;
         font-size: 1rem;
     }
